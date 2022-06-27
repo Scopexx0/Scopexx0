@@ -1,22 +1,40 @@
-<h1 align="center">Hello There, I'm Jeronimo</h1>
-<h3 align="center">A passionate junior backend developer(in progress)🐱‍🏍</h3>
+<h2 align="center">Hello There, I'm Jeronimo!<br>A passionate junior backend developer(in progress)🐱‍🏍</h2>
 
-- 🔭 I’m currently working on **ecommerce**
+###
 
-- 🌱 I’m currently learning **Django**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&username=scopexx" height="150" alt="stats graph"  />
+</div>
 
-- 👯 I’m looking to collaborate in **anything, any offer is welcome**
+###
 
-- 💬 Ask me about **Python, Django**
+<img align="right" height="150" src="https://i.gifer.com/rX.gif"  />
 
-- ⚡ Fun fact **I'm very sociable so feel free to contact me 🤪**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/ScopexX#6621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ScopexX#6621" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scopexx0&show_icons=true&theme=highcontrast&title_color=f425d8&hide_border=true&locale=en&layout=compact" alt="scopexx0" /></p>
+###
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=scopexx0&show_icons=true&theme=highcontrast&title_color=f425d8&bg_color=000000&hide_border=true&locale=en" alt="scopexx0" /></p>
+<div align="left">
+  <a href="ScopexX#6621" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/jeronimo-a-84223b230/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
+
+<br clear="both">
+
+
+###
