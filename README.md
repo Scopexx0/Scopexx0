@@ -17,6 +17,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scopexx0&show_icons=true&theme=highcontrast&title_color=f425d8&locale=en&layout=compact" alt="scopexx0" /></p>
+<br>
 <hr></hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scopexx0&show_icons=true&theme=highcontrast&title_color=f425d8&bg_color=000000&locale=en" alt="scopexx0" /></p>
 <hr></hr>
