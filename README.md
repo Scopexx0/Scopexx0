@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Scopexx0
-- 👀 I’m interested in Python, Web Develop, Machine Learning, CyberSecurity, ...
-- 🌱 I’m currently learning Python, ...
-- 💞️ I’m looking to collaborate on Not yet ...
-- 📫 How to reach me Not yet ...
+<h1 align="center">Hello There, I'm Jeronimo</h1>
+<h3 align="center">A passionate junior backend developer(in progress)🐱‍🏍</h3>
 
-<!---
-Scopexx0/Scopexx0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **ecommerce**
+
+- 🌱 I’m currently learning **Django**
+
+- 👯 I’m looking to collaborate in **anything, any offer is welcome**
+
+- 💬 Ask me about **Python, Django**
+
+- ⚡ Fun fact **I'm very sociable so feel free to contact me 🤪**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/ScopexX#6621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ScopexX#6621" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scopexx0&show_icons=true&theme=highcontrast&title_color=f425d8&locale=en&layout=compact" alt="scopexx0" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scopexx0&show_icons=true&theme=highcontrast&title_color=f425d8&bg_color=000000&locale=en" alt="scopexx0" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scopexx0&theme=highcontrast" alt="scopexx0" /></p>
