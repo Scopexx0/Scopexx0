@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=scopexx0&show_icons=true&theme=highcontrast&title_color=f425d8&bg_color=000000&hide_border=true&locale=en" alt="scopexx0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scopexx0&theme=highcontrast" alt="scopexx0" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=scopexx0&theme=highcontrast" alt="scopexx0" /></p>
