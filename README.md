@@ -17,7 +17,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scopexx0&show_icons=true&theme=highcontrast&title_color=f425d8&locale=en&layout=compact" alt="scopexx0" /></p>
-
+<hr></hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scopexx0&show_icons=true&theme=highcontrast&title_color=f425d8&bg_color=000000&locale=en" alt="scopexx0" /></p>
-
+<hr></hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scopexx0&theme=highcontrast" alt="scopexx0" /></p>
