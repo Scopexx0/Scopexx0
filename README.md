@@ -1,7 +1,6 @@
 <h1 align="center">Hello There, I'm Jeronimo</h1>
 <h3 align="center">A passionate junior backend developer(in progress)🐱‍🏍</h3>
 <br>
-- 🔭 I’m currently working on **ecommerce**
 
 - 🌱 I’m currently learning **Django**
 
