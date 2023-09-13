@@ -1,14 +1,14 @@
 <h1 align="center">Hello There, I'm Jeronimo</h1>
-<h3 align="center">A passionate junior backend developer(in progress)🐱‍🏍</h3>
+<h3 align="center">A passionate junior backend developer(in progress)🦅🧑‍💻</h3>
 <br>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently doing my **B.S in Computer Science, 26'**
 
-- 👯 I’m looking to collaborate in **anything, any offer is welcome**
+- 👯 I’m looking to collaborate in **a project, any offer is welcome**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django, Java and C**
 
-- ⚡ Fun fact **I'm very sociable so feel free to contact me 🤪**
+- ⚡ Fun fact **I'm very sociable and I like to meet new people, so feel free to contact me 🤪**
 
 ![Alt Text](https://i.gifer.com/rX.gif)
 ![cac0d228cbada1d955bc73ee681267a2](https://user-images.githubusercontent.com/105029188/176026522-ab000b62-b7ee-4d8f-ad6e-46c24fff2e3e.gif)
@@ -22,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="git logo"  />
 </div>
 
 ###
