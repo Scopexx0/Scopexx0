@@ -10,9 +10,6 @@
 
 - ⚡ Fun fact **I'm very sociable and I like to meet new people, so feel free to contact me 🤪**
 
-![Alt Text](https://i.gifer.com/rX.gif)
-![cac0d228cbada1d955bc73ee681267a2](https://user-images.githubusercontent.com/105029188/176026522-ab000b62-b7ee-4d8f-ad6e-46c24fff2e3e.gif)
-
 ###
 <h4>↓↓ Knowledge ↓↓</h4>
 <div align="left">
