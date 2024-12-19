@@ -2,6 +2,7 @@
 <h3 align="center">A passionate junior backend developer(in progress)🦅🧑‍💻</h3>
 <br>
 
+<div align="center">
 - 🌱 I’m currently doing my **B.S in Computer Science, 26'**
 
 - 👯 I’m looking to collaborate in **a project, any offer is welcome**
@@ -9,7 +10,7 @@
 - 💬 Ask me about **Python, Django, Java and C**
 
 - ⚡ Fun fact **I'm very sociable and I like to meet new people, so feel free to contact me**
-
+</div>
 ###
 <div align="center">
 <h4>↓↓ Knowledge ↓↓</h4>
