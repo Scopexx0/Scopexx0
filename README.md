@@ -5,9 +5,13 @@
 <div align="center">
   <div>
     - 🌱 I’m currently doing my **B.S in Computer Science, 26'**
+    
     - 👯 I’m looking to collaborate in **a project, any offer is welcome**
+    
     - 💬 Ask me about **Python, Django, Java and C**
+    
     - ⚡ Fun fact **I'm very sociable and I like to meet new people, so feel free to contact me**
+    
     ###
   </div>
 </div>
