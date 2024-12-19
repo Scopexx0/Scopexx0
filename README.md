@@ -3,15 +3,15 @@
 <br>
 
 <div align="center">
-- 🌱 I’m currently doing my **B.S in Computer Science, 26'**
+  - 🌱 I’m currently doing my **B.S in Computer Science, 26'**
 
 - 👯 I’m looking to collaborate in **a project, any offer is welcome**
 
 - 💬 Ask me about **Python, Django, Java and C**
 
 - ⚡ Fun fact **I'm very sociable and I like to meet new people, so feel free to contact me**
-</div>
 ###
+</div>
 <div align="center">
 <h4>↓↓ Knowledge ↓↓</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
