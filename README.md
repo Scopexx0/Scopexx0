@@ -28,9 +28,6 @@
 ###
 <div align="center">
 <h4>↓↓ Add Me ↓↓</h4>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ScopexX 6621&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/jeronimo-a-84223b230/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
