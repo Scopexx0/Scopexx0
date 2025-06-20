@@ -2,11 +2,11 @@
 <h3 align="center">A passionate junior developer🦅🧑‍💻</h3>
 <br>
 
-- 🌱 I’m currently doing my **B.S in Computer Science, 26'**
+- 🌱 Currently pursuing **B.S in Computer Science, 26'**
 
-- 👯 I’m looking to collaborate in **a project, any offer is welcome**
+- 👯 Looking to collaborate with **projects, apps, any offer is welcome**
 
-- 💬 Ask me about **Python, Django, Java and C**
+- 💬 Ask me about **Python, Django, Java, C**
 
 - ⚡ Fun fact **I'm very sociable and I like to meet new people, so feel free to contact me**
     
